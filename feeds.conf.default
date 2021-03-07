@@ -8,3 +8,4 @@ src-git freifunk https://github.com/freifunk/openwrt-packages.git;openwrt-19.07
 #src-git small https://github.com/kenzok8/small
 src-git xiaorouji  https://github.com/xiaorouji/openwrt-passwall
 src-git helloworld https://github.com/fw876/helloworld
+src-git redsocks https://github.com/semigodking/redsocks
