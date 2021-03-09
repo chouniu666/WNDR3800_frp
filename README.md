@@ -1,3 +1,9 @@
+仅加入魔法上网 ssr-plus  插件 (v2/xray,trojan,shadowsocks/r）
+include  ssr-plus  ( v2/xray,trojan,shadowsocks/r）
+
+
+
+
 # Actions-OpenWrt
 
 [![LICENSE](https://img.shields.io/github/license/mashape/apistatus.svg?style=flat-square&label=LICENSE)](https://github.com/P3TERX/Actions-OpenWrt/blob/master/LICENSE)
